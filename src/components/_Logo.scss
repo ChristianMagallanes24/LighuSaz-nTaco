@@ -1,12 +1,17 @@
 .logo{
-    width: 100px;
+    width: 50px;
 }
 .bg{
     background-color: #de2e03;
+    
 }
 .nav-link{
+    margin-inline: 10px;
     color: #fff;
-    font-size: 20px;
-    font-family: 'Cinzel', serif;
-
+    text-transform: uppercase;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    &:hover{
+        color: #ff8800;
+    }
 }

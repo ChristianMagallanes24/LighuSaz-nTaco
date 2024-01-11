@@ -14,7 +14,9 @@ function BasicExample() {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto links">
             <Nav.Link href="#home">inicio</Nav.Link>
-            <Nav.Link href="#link">tacos</Nav.Link>
+            <Nav.Link href="#link">menu</Nav.Link>
+            <Nav.Link href="#link">quienes somos?</Nav.Link>
+            <Nav.Link href="#link">contacto</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
